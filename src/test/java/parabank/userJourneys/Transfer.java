@@ -2,7 +2,7 @@ package parabank.userJourneys;
 
 import io.gatling.javaapi.core.*;
 import static io.gatling.javaapi.core.CoreDsl.*;
-import static io.gatling.javaapi.http.HttpDsl.*;
+
 
 import parabank.pageObjects.ActiveUserPages;
 import parabank.pageObjects.NewUserRegPages;

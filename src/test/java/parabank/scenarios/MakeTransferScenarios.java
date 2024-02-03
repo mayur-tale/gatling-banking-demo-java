@@ -4,7 +4,7 @@ import io.gatling.javaapi.core.*;
 import static io.gatling.javaapi.core.CoreDsl.*;
 import static io.gatling.javaapi.core.CoreDsl.scenario;
 
-import java.time.Duration;
+
 
 import parabank.userJourneys.LoginAccountOverview;
 import parabank.userJourneys.Transfer;
