@@ -1,0 +1,11 @@
+{
+    "address": {
+        "street": "129 test road",
+        "city": "doetest",
+        "state": "south yorkshire",
+        "zipCode": "xbf447"
+    },
+    "name": "John Doe",
+    "phoneNumber": "12989090",
+    "accountNumber": "23456789"
+}
